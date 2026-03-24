@@ -13,7 +13,7 @@
 	},
 	"license": "MIT",
 	"icon": "assets/uuidkeys/icon.jpg",
-	"environment": "server",
+	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"com.tino.keys.UUIDKeys"
