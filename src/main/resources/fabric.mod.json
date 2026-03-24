@@ -3,7 +3,7 @@
 	"id": "uuidkeys",
 	"version": "${version}",
 	"name": "UUIDKeys",
-	"description": "Revolutionize vault looting by signing keys together! UUIDKeys incentivizes multiplayer cooperation by allowing groups of players to share Trial and Ominous Trial Keys, granting each signer their own unique rewards from Vaults without consuming the vanilla loot slot.",
+	"description": "Unlock the social economy of the Trial Chambers! UUIDKeys lets you split and merge key signatures to ensure no reward goes unclaimed. Break down large team victories for solo loot, or trade and merge keys with new friends to unlock shared rewards. Cooperation is finally profitable!",
 	"authors": [
 		"TinoMartino"
 	],
