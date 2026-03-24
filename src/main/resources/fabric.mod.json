@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT",
-	"icon": "assets/uuidkeys/icon.png",
+	"icon": "assets/uuidkeys/icon.jpg",
 	"environment": "server",
 	"entrypoints": {
 		"main": [
