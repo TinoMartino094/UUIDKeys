@@ -3,7 +3,7 @@
 	"id": "uuidkeys",
 	"version": "${version}",
 	"name": "UUIDKeys",
-	"description": "Unlock the social economy of the Trial Chambers! UUIDKeys lets you split and merge key signatures to ensure no reward goes unclaimed. Break down large team victories for solo loot, or trade and merge keys with new friends to unlock shared rewards. Cooperation is finally profitable!",
+	"description": "Unlock the Combinatorial Vault! UUIDKeys enhances the vanilla Trial Chamber by treating every unique team combination as a fresh reward opportunity. Strategic signature management—splitting and merging—allows you to revisit and re-loot Vaults with your friends. More friends, more loot, more fun!",
 	"authors": [
 		"TinoMartino"
 	],
